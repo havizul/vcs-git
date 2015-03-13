@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\AplikasiPayrollDAO(Bonus1)\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AplikasiPayrollDAO(Bonus1)\obj\Release\$safeprojectname$.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AplikasiPayrollDAO(Bonus1)\obj\Release\AplikasiPayrollDAO.View.frmGolongan.resources
+C:\Users\Administrator\Desktop\AplikasiPayrollDAO(Bonus1)\obj\Release\AplikasiPayrollDAO.View.frmJabatan.resources
+C:\Users\Administrator\Desktop\AplikasiPayrollDAO(Bonus1)\obj\Release\AplikasiPayrollDAO.View.frmLogin.resources
+C:\Users\Administrator\Desktop\AplikasiPayrollDAO(Bonus1)\obj\Release\AplikasiPayrollDAO.frmMenuUtama.resources
+C:\Users\Administrator\Desktop\AplikasiPayrollDAO(Bonus1)\obj\Release\AplikasiPayrollDAO.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AplikasiPayrollDAO(Bonus1)\bin\Release\AplikasiPayrollDAO.exe.config
+C:\Users\Administrator\Desktop\AplikasiPayrollDAO(Bonus1)\obj\Release\AplikasiPayrollDAO.Properties.Resources.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\AplikasiPayrollDAO(Bonus1)\bin\Release\AplikasiPayrollDAO.exe.config
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\AplikasiPayrollDAO(Bonus1)\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\AplikasiPayrollDAO(Bonus1)\obj\Release\AplikasiPayrollDAO.Properties.Resources.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\AplikasiPayrollDAO(Bonus1)\obj\Release\AplikasiPayrollDAO.View.frmGolongan.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\AplikasiPayrollDAO(Bonus1)\obj\Release\AplikasiPayrollDAO.View.frmJabatan.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\AplikasiPayrollDAO(Bonus1)\obj\Release\AplikasiPayrollDAO.View.frmLogin.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\AplikasiPayrollDAO(Bonus1)\obj\Release\AplikasiPayrollDAO.frmMenuUtama.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\AplikasiPayrollDAO(Bonus1)\obj\Release\AplikasiPayrollDAO.csproj.GenerateResource.Cache

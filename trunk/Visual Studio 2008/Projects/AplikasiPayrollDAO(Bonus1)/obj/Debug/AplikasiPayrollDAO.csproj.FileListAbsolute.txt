@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\AplikasiPayrollDAO(Bonus1)\bin\Debug\$safeprojectname$.exe.config
+C:\Users\Administrator\Desktop\AplikasiPayrollDAO(Bonus1)\bin\Debug\AplikasiPayrollDAO.exe.config

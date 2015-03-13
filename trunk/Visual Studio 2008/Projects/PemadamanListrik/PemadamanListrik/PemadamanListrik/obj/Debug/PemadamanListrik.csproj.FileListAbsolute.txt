@@ -1,0 +1,15 @@
+C:\Users\lia\Desktop\Challenge\Pemadaman Listrik Answer\PemadamanListrik\PemadamanListrik\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lia\Desktop\Challenge\Pemadaman Listrik Answer\PemadamanListrik\PemadamanListrik\bin\Debug\PemadamanListrik.exe
+C:\Users\lia\Desktop\Challenge\Pemadaman Listrik Answer\PemadamanListrik\PemadamanListrik\bin\Debug\PemadamanListrik.pdb
+C:\Users\lia\Desktop\Challenge\Pemadaman Listrik Answer\PemadamanListrik\PemadamanListrik\obj\Debug\PemadamanListrik.exe
+C:\Users\lia\Desktop\Challenge\Pemadaman Listrik Answer\PemadamanListrik\PemadamanListrik\obj\Debug\PemadamanListrik.pdb
+C:\Documents and Settings\it\Desktop\TES 12 Nov 2014\Jawaban\PemadamanListrik\PemadamanListrik\obj\Debug\PemadamanListrik.exe
+C:\Documents and Settings\it\Desktop\TES 12 Nov 2014\Jawaban\PemadamanListrik\PemadamanListrik\obj\Debug\PemadamanListrik.pdb
+C:\Documents and Settings\it\Desktop\TES 12 Nov 2014\Jawaban\PemadamanListrik\PemadamanListrik\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\it\Desktop\TES 12 Nov 2014\Jawaban\PemadamanListrik\PemadamanListrik\bin\Debug\PemadamanListrik.exe
+C:\Documents and Settings\it\Desktop\TES 12 Nov 2014\Jawaban\PemadamanListrik\PemadamanListrik\bin\Debug\PemadamanListrik.pdb
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\PemadamanListrik\PemadamanListrik\PemadamanListrik\obj\Debug\PemadamanListrik.exe
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\PemadamanListrik\PemadamanListrik\PemadamanListrik\obj\Debug\PemadamanListrik.pdb
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\PemadamanListrik\PemadamanListrik\PemadamanListrik\bin\Debug\PemadamanListrik.exe
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\PemadamanListrik\PemadamanListrik\PemadamanListrik\bin\Debug\PemadamanListrik.pdb
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\PemadamanListrik\PemadamanListrik\PemadamanListrik\obj\Debug\ResolveAssemblyReference.cache

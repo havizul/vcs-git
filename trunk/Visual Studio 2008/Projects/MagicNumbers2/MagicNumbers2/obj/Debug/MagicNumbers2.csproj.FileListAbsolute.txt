@@ -1,0 +1,5 @@
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\MagicNumbers2\MagicNumbers2\bin\Debug\MagicNumbers2.exe
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\MagicNumbers2\MagicNumbers2\bin\Debug\MagicNumbers2.pdb
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\MagicNumbers2\MagicNumbers2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\MagicNumbers2\MagicNumbers2\obj\Debug\MagicNumbers2.exe
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\MagicNumbers2\MagicNumbers2\obj\Debug\MagicNumbers2.pdb

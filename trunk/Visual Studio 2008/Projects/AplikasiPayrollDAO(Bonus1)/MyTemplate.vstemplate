@@ -1,0 +1,54 @@
+<VSTemplate Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>AplikasiPayrollDAO(Bonus1)</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>AplikasiPayrollDAO(Bonus1)</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="AplikasiPayrollDAO.csproj" File="AplikasiPayrollDAO.csproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="App.config">App.config</ProjectItem>
+      <Folder Name="DAO" TargetFolderName="DAO">
+        <ProjectItem ReplaceParameters="true" TargetFileName="GolonganDAO.cs">GolonganDAO.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="JabatanDAO.cs">JabatanDAO.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="LoginDAO.cs">LoginDAO.cs</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="DBConnection.cs">DBConnection.cs</ProjectItem>
+      <Folder Name="Model" TargetFolderName="Model">
+        <ProjectItem ReplaceParameters="true" TargetFileName="Golongan.cs">Golongan.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Jabatan.cs">Jabatan.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Petugas.cs">Petugas.cs</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Program.cs">Program.cs</ProjectItem>
+      <Folder Name="Properties" TargetFolderName="Properties">
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.cs">AssemblyInfo.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.resx">Resources.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.Designer.cs">Resources.Designer.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.settings">Settings.settings</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.Designer.cs">Settings.Designer.cs</ProjectItem>
+      </Folder>
+      <Folder Name="View" TargetFolderName="View">
+        <ProjectItem ReplaceParameters="true" TargetFileName="frmGolongan.cs">frmGolongan.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="frmGolongan.Designer.cs">frmGolongan.Designer.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="frmGolongan.resx">frmGolongan.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="frmJabatan.cs">frmJabatan.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="frmJabatan.Designer.cs">frmJabatan.Designer.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="frmJabatan.resx">frmJabatan.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="frmLogin.cs">frmLogin.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="frmLogin.Designer.cs">frmLogin.Designer.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="frmLogin.resx">frmLogin.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="frmMenuUtama.cs">frmMenuUtama.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="frmMenuUtama.Designer.cs">frmMenuUtama.Designer.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="frmMenuUtama.resx">frmMenuUtama.resx</ProjectItem>
+      </Folder>
+    </Project>
+  </TemplateContent>
+</VSTemplate>

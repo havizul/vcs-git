@@ -1,0 +1,7 @@
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\GetMagicNumber\GetMagicNumber\bin\Debug\GetMagicNumber.exe
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\GetMagicNumber\GetMagicNumber\bin\Debug\GetMagicNumber.pdb
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\GetMagicNumber\GetMagicNumber\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\GetMagicNumber\GetMagicNumber\obj\Debug\GetMagicNumber.exe
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\GetMagicNumber\GetMagicNumber\obj\Debug\GetMagicNumber.pdb
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\GetMagicNumber\GetMagicNumber\obj\Debug\GetMagicNumber.exe
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\GetMagicNumber\GetMagicNumber\obj\Debug\GetMagicNumber.pdb

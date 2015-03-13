@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{21D211B0-EE07-47CC-8710-7FDF76084F95}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>hrd_datakaryawan_apps</RootNamespace>
+    <AssemblyName>hrd_datakaryawan_apps</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Mono.Security, Version=2.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Libraries\Npgsql-2.2.0-net35\Mono.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql, Version=2.2.0.0, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Npgsql-2.2.0-net35\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAO\AgamaDAO.cs" />
+    <Compile Include="DAO\IdentitasDAO.cs" />
+    <Compile Include="DAO\Informasi_EmailDAO.cs" />
+    <Compile Include="DAO\Informasi_KontakDAO.cs" />
+    <Compile Include="DAO\Informasi_ResignDAO.cs" />
+    <Compile Include="DAO\KaryawanDAO.cs" />
+    <Compile Include="DAO\DepartemenDAO.cs" />
+    <Compile Include="DAO\GradeDAO.cs" />
+    <Compile Include="DAO\JabatanDAO.cs" />
+    <Compile Include="DAO\Jenis_PekerjaDAO.cs" />
+    <Compile Include="DAO\LevelDAO.cs" />
+    <Compile Include="DAO\Lokasi_KerjaDAO.cs" />
+    <Compile Include="DAO\PendidikanDAO.cs" />
+    <Compile Include="DAO\Status_PajakDAO.cs" />
+    <Compile Include="DAO\Status_PekerjaDAO.cs" />
+    <Compile Include="DAO\Ukuran_PakaianDAO.cs" />
+    <Compile Include="DAO\UpahDAO.cs" />
+    <Compile Include="DBConnection.cs" />
+    <Compile Include="iListener.cs" />
+    <Compile Include="mdiChildCounter.cs" />
+    <Compile Include="Model\Agama.cs" />
+    <Compile Include="Model\Departemen.cs" />
+    <Compile Include="Model\Grade.cs" />
+    <Compile Include="Model\Identitas.cs" />
+    <Compile Include="Model\Informasi_Email.cs" />
+    <Compile Include="Model\Informasi_Kontak.cs" />
+    <Compile Include="Model\Informasi_Resign.cs" />
+    <Compile Include="Model\Jabatan.cs" />
+    <Compile Include="Model\Jenis_Pekerja.cs" />
+    <Compile Include="Model\Karyawan.cs" />
+    <Compile Include="Model\Level.cs" />
+    <Compile Include="Model\Lokasi_Kerja.cs" />
+    <Compile Include="Model\Pendidikan.cs" />
+    <Compile Include="Model\Status_Pajak.cs" />
+    <Compile Include="Model\Status_Pekerja.cs" />
+    <Compile Include="Model\Ukuran_Pakaian.cs" />
+    <Compile Include="Model\Upah.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmAgama.resx">
+      <DependentUpon>frmAgama.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmDataKaryawan.resx">
+      <DependentUpon>frmDataKaryawan.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmDepartemen.resx">
+      <DependentUpon>frmDepartemen.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmGrade.resx">
+      <DependentUpon>frmGrade.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmIdentitas.resx">
+      <DependentUpon>frmIdentitas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmInformasi_Email.resx">
+      <DependentUpon>frmInformasi_Email.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmInformasi_Kontak.resx">
+      <DependentUpon>frmInformasi_Kontak.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmInformasi_Resign.resx">
+      <DependentUpon>frmInformasi_Resign.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmJabatan.resx">
+      <DependentUpon>frmJabatan.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmJenis_Pekerja.resx">
+      <DependentUpon>frmJenis_Pekerja.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmLevel.resx">
+      <DependentUpon>frmLevel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmListAllInformasiEmail.resx">
+      <DependentUpon>frmListAllInformasiEmail.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmLokasiKerja.resx">
+      <DependentUpon>frmLokasiKerja.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmMenuUtama.resx">
+      <DependentUpon>frmMenuUtama.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmPendidikan.resx">
+      <DependentUpon>frmPendidikan.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmStatusPajak.resx">
+      <DependentUpon>frmStatusPajak.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmStatus_Pekerja.resx">
+      <DependentUpon>frmStatus_Pekerja.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmUkuran_Pakaian.resx">
+      <DependentUpon>frmUkuran_Pakaian.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmUpah.resx">
+      <DependentUpon>frmUpah.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\tes.resx">
+      <DependentUpon>tes.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="View\frmAgama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmAgama.Designer.cs">
+      <DependentUpon>frmAgama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmDataKaryawan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmDataKaryawan.Designer.cs">
+      <DependentUpon>frmDataKaryawan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmDepartemen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmDepartemen.Designer.cs">
+      <DependentUpon>frmDepartemen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmGrade.Designer.cs">
+      <DependentUpon>frmGrade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmIdentitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmIdentitas.Designer.cs">
+      <DependentUpon>frmIdentitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmInformasi_Email.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmInformasi_Email.Designer.cs">
+      <DependentUpon>frmInformasi_Email.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmInformasi_Kontak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmInformasi_Kontak.Designer.cs">
+      <DependentUpon>frmInformasi_Kontak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmInformasi_Resign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmInformasi_Resign.Designer.cs">
+      <DependentUpon>frmInformasi_Resign.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmJabatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmJabatan.Designer.cs">
+      <DependentUpon>frmJabatan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmJenis_Pekerja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmJenis_Pekerja.Designer.cs">
+      <DependentUpon>frmJenis_Pekerja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmLevel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmLevel.Designer.cs">
+      <DependentUpon>frmLevel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmListAllInformasiEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmListAllInformasiEmail.Designer.cs">
+      <DependentUpon>frmListAllInformasiEmail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmLokasiKerja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmLokasiKerja.Designer.cs">
+      <DependentUpon>frmLokasiKerja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmMenuUtama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmMenuUtama.Designer.cs">
+      <DependentUpon>frmMenuUtama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmPendidikan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmPendidikan.Designer.cs">
+      <DependentUpon>frmPendidikan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmStatusPajak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmStatusPajak.Designer.cs">
+      <DependentUpon>frmStatusPajak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmStatus_Pekerja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmStatus_Pekerja.Designer.cs">
+      <DependentUpon>frmStatus_Pekerja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmUkuran_Pakaian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmUkuran_Pakaian.Designer.cs">
+      <DependentUpon>frmUkuran_Pakaian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmUpah.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmUpah.Designer.cs">
+      <DependentUpon>frmUpah.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\tes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\tes.Designer.cs">
+      <DependentUpon>tes.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Laporan\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

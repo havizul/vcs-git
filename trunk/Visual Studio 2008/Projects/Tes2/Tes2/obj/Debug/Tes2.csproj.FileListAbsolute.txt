@@ -1,0 +1,5 @@
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\Tes2\Tes2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\Tes2\Tes2\bin\Debug\Tes2.exe
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\Tes2\Tes2\bin\Debug\Tes2.pdb
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\Tes2\Tes2\obj\Debug\Tes2.exe
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\Tes2\Tes2\obj\Debug\Tes2.pdb

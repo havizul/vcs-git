@@ -1,0 +1,5 @@
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\removeExtraWhiteSpaceByTrim-CS\removeExtraWhiteSpaceByTrim-CS\bin\Debug\removeExtraWhiteSpaceByTrim-CS.exe
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\removeExtraWhiteSpaceByTrim-CS\removeExtraWhiteSpaceByTrim-CS\bin\Debug\removeExtraWhiteSpaceByTrim-CS.pdb
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\removeExtraWhiteSpaceByTrim-CS\removeExtraWhiteSpaceByTrim-CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\removeExtraWhiteSpaceByTrim-CS\removeExtraWhiteSpaceByTrim-CS\obj\Debug\removeExtraWhiteSpaceByTrim-CS.exe
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\removeExtraWhiteSpaceByTrim-CS\removeExtraWhiteSpaceByTrim-CS\obj\Debug\removeExtraWhiteSpaceByTrim-CS.pdb

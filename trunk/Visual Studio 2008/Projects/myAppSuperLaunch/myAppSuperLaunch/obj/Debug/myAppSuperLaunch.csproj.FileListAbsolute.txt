@@ -1,0 +1,5 @@
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\myAppSuperLaunch\myAppSuperLaunch\bin\Debug\myAppSuperLaunch.exe
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\myAppSuperLaunch\myAppSuperLaunch\bin\Debug\myAppSuperLaunch.pdb
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\myAppSuperLaunch\myAppSuperLaunch\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\myAppSuperLaunch\myAppSuperLaunch\obj\Debug\myAppSuperLaunch.exe
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\myAppSuperLaunch\myAppSuperLaunch\obj\Debug\myAppSuperLaunch.pdb

@@ -1,0 +1,157 @@
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\hrd_datakaryawan_apps.pdb
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.Properties.Resources.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\hrd_datakaryawan_apps.exe.config
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\hrd_datakaryawan_apps.exe
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmAgama.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmDataKaryawan.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmDepartemen.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmGrade.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmInformasi_Email.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmJabatan.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmJenis_Pekerja.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmLevel.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmListAllInformasiEmail.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmLokasiKerja.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmMenuUtama.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmStatusPajak.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmStatus_Pekerja.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmUkuran_Pakaian.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmUpah.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmtes.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.csproj.GenerateResource.Cache
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.exe
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.pdb
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\Npgsql.dll
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\Mono.Security.dll
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\Npgsql.pdb
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\Npgsql.xml
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\de\Npgsql.resources.dll
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\es\Npgsql.resources.dll
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\fi\Npgsql.resources.dll
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\fr\Npgsql.resources.dll
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\ja\Npgsql.resources.dll
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmInformasi_Resign.resources
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\hrd_datakaryawan_apps.exe.config
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.exe
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.pdb
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.Properties.Resources.resources
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmAgama.resources
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmDataKaryawan.resources
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmDepartemen.resources
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmGrade.resources
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmInformasi_Email.resources
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmInformasi_Resign.resources
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmJabatan.resources
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmJenis_Pekerja.resources
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmLevel.resources
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmListAllInformasiEmail.resources
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmLokasiKerja.resources
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmMenuUtama.resources
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmStatusPajak.resources
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmStatus_Pekerja.resources
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmUkuran_Pakaian.resources
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmUpah.resources
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmtes.resources
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.csproj.GenerateResource.Cache
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\hrd_datakaryawan_apps.exe
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\hrd_datakaryawan_apps.pdb
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\Mono.Security.dll
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\Npgsql.pdb
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\Npgsql.xml
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\de\Npgsql.resources.dll
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\es\Npgsql.resources.dll
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\fi\Npgsql.resources.dll
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\fr\Npgsql.resources.dll
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\ja\Npgsql.resources.dll
+C:\Documents and Settings\SVN\repo1\trunks\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\hrd_datakaryawan_apps.exe.config
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\hrd_datakaryawan_apps.exe
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\hrd_datakaryawan_apps.pdb
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.Properties.Resources.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmAgama.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmDataKaryawan.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmDepartemen.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmGrade.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmInformasi_Email.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmInformasi_Resign.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmJabatan.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmJenis_Pekerja.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmLevel.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmListAllInformasiEmail.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmLokasiKerja.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmMenuUtama.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmStatusPajak.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmStatus_Pekerja.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmUkuran_Pakaian.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmUpah.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmtes.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.csproj.GenerateResource.Cache
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.exe
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.pdb
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\Mono.Security.dll
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\Npgsql.pdb
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\Npgsql.xml
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\ja\Npgsql.resources.dll
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\hrd_datakaryawan_apps.exe.config
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\hrd_datakaryawan_apps.exe
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\hrd_datakaryawan_apps.pdb
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\Mono.Security.dll
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.Properties.Resources.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmAgama.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmDataKaryawan.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmDepartemen.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmGrade.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmInformasi_Email.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmInformasi_Kontak.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmInformasi_Resign.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmJabatan.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmJenis_Pekerja.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmLevel.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmListAllInformasiEmail.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmLokasiKerja.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmMenuUtama.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmPendidikan.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmStatusPajak.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmStatus_Pekerja.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmUkuran_Pakaian.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmUpah.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmtes.resources
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.csproj.GenerateResource.Cache
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.exe
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.pdb
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmIdentitas.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\hrd_datakaryawan_apps.exe.config
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.exe
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.pdb
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\hrd_datakaryawan_apps.exe
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\hrd_datakaryawan_apps.pdb
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\bin\Debug\Mono.Security.dll
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.Properties.Resources.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmAgama.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmDataKaryawan.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmDepartemen.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmGrade.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmIdentitas.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmInformasi_Email.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmInformasi_Kontak.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmInformasi_Resign.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmJabatan.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmJenis_Pekerja.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmLevel.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmListAllInformasiEmail.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmLokasiKerja.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmMenuUtama.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmPendidikan.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmStatusPajak.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmStatus_Pekerja.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmUkuran_Pakaian.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmUpah.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.View.frmtes.resources
+C:\Documents and Settings\svn-googlecode\trunk\Visual Studio 2008\Projects\hrd_datakaryawan_apps\hrd_datakaryawan_apps\obj\Debug\hrd_datakaryawan_apps.csproj.GenerateResource.Cache

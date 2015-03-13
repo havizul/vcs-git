@@ -1,0 +1,5 @@
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\smtpClient\smtpClient\bin\Debug\smtpClient.exe
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\smtpClient\smtpClient\bin\Debug\smtpClient.pdb
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\smtpClient\smtpClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\smtpClient\smtpClient\obj\Debug\smtpClient.exe
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\smtpClient\smtpClient\obj\Debug\smtpClient.pdb

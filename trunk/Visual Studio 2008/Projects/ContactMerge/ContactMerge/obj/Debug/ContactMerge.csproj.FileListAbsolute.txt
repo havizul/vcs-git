@@ -1,0 +1,7 @@
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\ContactMerge\ContactMerge\bin\Debug\ContactMerge.exe
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\ContactMerge\ContactMerge\bin\Debug\ContactMerge.pdb
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\ContactMerge\ContactMerge\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\ContactMerge\ContactMerge\obj\Debug\ContactMerge.exe
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\ContactMerge\ContactMerge\obj\Debug\ContactMerge.pdb
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\ContactMerge\ContactMerge\obj\Debug\ContactMerge.exe
+C:\Documents and Settings\SVN\repo1\Visual Studio 2008\Trunk\Projects\ContactMerge\ContactMerge\obj\Debug\ContactMerge.pdb

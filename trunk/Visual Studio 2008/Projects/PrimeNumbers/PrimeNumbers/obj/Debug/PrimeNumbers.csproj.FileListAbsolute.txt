@@ -1,0 +1,8 @@
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.Form1.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.Properties.Resources.resources
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.csproj.GenerateResource.Cache
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+C:\Documents and Settings\it\My Documents\Visual Studio 2008\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
